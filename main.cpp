@@ -1,3 +1,5 @@
+//Disclaimer: a lot of this code was taken and adapted by combing through the openCV docs and examples
+
 #include "opencv2/objdetect.hpp"
 #include "opencv2/videoio.hpp"
 #include "opencv2/highgui.hpp"
